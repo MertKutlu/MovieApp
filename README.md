@@ -1,10 +1,10 @@
 # MovieApp
 
-- [ ] In this application I created an example of moviesite im working on this App
+- In this application I created an example of moviesite im working on this App
 
 # Requirements
 
-- [ ] .NET Core 2.2
+- .NET Core 2.2
 
 # Main Page
 
@@ -13,7 +13,7 @@
 
 # Movie Selection and Description Part
 
-- [ ] Movie type and content filtering
+- Movie type and content filtering
 
 
 ![MovieApp2](https://user-images.githubusercontent.com/49922817/158376997-4f0659a3-597c-468b-95cc-13e3ab23631c.png)
